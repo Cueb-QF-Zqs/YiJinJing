@@ -1,19 +1,3 @@
----
-title: "易金经——LLM驱动下融合数据底座和智能投资的金融服务解决方案"
-author: "易金经项目组"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    number_sections: true
-    df_print: paged
-  pdf_document:
-    number_sections: true
-    toc: true
-lang: zh-CN
----
-
 # ✨ Yi Jin Jing: An LLM-driven financial service solution integrating data foundation and intelligent investment
 
 
@@ -262,4 +246,5 @@ In collaboration with Ascend AI Computing Center (China), the team explores high
 
 - FinEX model card & weights:
   <https://www.modelscope.cn/models/Madness977/FinEX>
+
 
